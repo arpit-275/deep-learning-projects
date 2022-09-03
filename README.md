@@ -1,1 +1,1 @@
-# Potato Disease Classifier
+# Deep Learning Projects
